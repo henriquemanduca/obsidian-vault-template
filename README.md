@@ -28,7 +28,7 @@ PARA é um sistema de organização simples e flexível criado por Tiago Forte. 
 ## 🚀 Como usar este template:
 
 1. **Clone o Repositório:** Clone este repositório para o seu computador.
-2. **Cire seu Vault Obsidian:** Copie as pastas e arquivos para o seu vault Obsidian.
+2. **Crie seu Vault Obsidian:** Copie as pastas e arquivos para o seu vault Obsidian.
 3. **Personalize:** Adapte as pastas e templates às suas necessidades se necessário.
 4. **Comece a Criar Notas:** Use os templates para criar notas para seus projetos, áreas, recursos e arquivos.
 5. **Mantenha a Organização:** Siga a estrutura do template para manter suas notas organizadas e fáceis de encontrar.

@@ -1,0 +1,37 @@
+{
+  "appliedMigrations": [
+    "_SupportLeadingZerosAndCustomSeparatorInLegacyConfigurationMigration"
+  ],
+  "idDefinitions": [
+    {
+      "name": "Global ID",
+      "currentIteration": 2,
+      "prefix": "GUID",
+      "separator": "-",
+      "leadingZeros": {
+        "enabled": false,
+        "numberOfZeros": 8
+      }
+    },
+    {
+      "prefix": "GMM",
+      "currentIteration": 9,
+      "name": "GetMyManga",
+      "separator": "-",
+      "leadingZeros": {
+        "enabled": false,
+        "numberOfZeros": 8
+      }
+    },
+    {
+      "prefix": "GINST",
+      "currentIteration": 0,
+      "name": "GetInsta",
+      "separator": "-",
+      "leadingZeros": {
+        "enabled": false,
+        "numberOfZeros": 8
+      }
+    }
+  ]
+}

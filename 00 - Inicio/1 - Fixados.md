@@ -1,15 +1,16 @@
 #fixados
 
 ---
-# 📑 Lista de Tarefas
+# Lista de Tarefas
 
-## ⏰ Fixados
+## 📌 Fixados
 
-- Notas fixadas
+- Custos Fixos: [[nota-custos-fixos]]
 
-## 📌 TODO
+## ⏰ TO-DO
 
-- 2025-03-12 -> Tarefas com prazo 
+- 2025-03-07: Refinar [Best Way to Master Spring Boot](https://www.geeksforgeeks.org/best-way-to-master-spring-boot-a-complete-roadmap/)
+- 2025-02-27: 💡 Validar um post do Instagram
 
 ---
 ## 📋 Nomenclatura de Arquivos

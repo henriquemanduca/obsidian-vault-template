@@ -4,16 +4,32 @@
 
 # Projetos 
 
-- [[0 - Definição de Projetos|0 - Definição de Projetos]]
+- [[Cursos]]
+- [[01 - Projetos/Livros|Livros]]
+- [[01 - Projetos/Pesquisas|Pesquisas]]
+- [[Programas]]
 
 # Áreas
 
-- [[0 - Definição de Áreas|0 - Definição de Áreas]]
+- [[Investimentos]]
+- [[Pagamentos]]
+- [[Pontos-de-ação]]
+- [[Saúde]]
+- [[02 - Áreas/Softfocus|Softfocus]]
 
 # Recursos
 
-- [[0 - Definição de Recursos|0 - Definição de Recursos]]
+- [[Artigos]]
+- [[03 - Recursos/Estudos|Estudos]]
+- [[Linux]]
+- [[Outros]]
+- [[03 - Recursos/Pesquisas|Pesquisas]]
+- [[Autores]]
 
 # Arquivos
 
-- [[0 - Definição de Arquivos|0 - Definição de Arquivos]]
+- [[Geral]]
+- [[JavaScript]]
+- [[04 - Arquivos/Livros|Livros]]
+- [[Projetos]]
+- [[04 - Arquivos/Softfocus|Softfocus]]

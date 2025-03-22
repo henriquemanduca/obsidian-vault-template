@@ -12,21 +12,25 @@
             "type": "leaf",
             "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00 - Inicio/1 - Fixados.md",
+                "mode": "source",
+                "source": false
+              },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1 - Fixados"
             }
           },
           {
-            "id": "bee23f9feea2f9c5",
+            "id": "beffc257a3367484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -66,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#temp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 320.5
   },
   "right": {
     "id": "316e2ee813779c29",
@@ -155,20 +159,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 - Áreas/01 - Pontos de Ação.md",
+                "file": "01 - Projetos/Pesquisas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01 - Pontos de Ação"
+              "title": "Outline of Pesquisas"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,58 +180,60 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "file-cleaner-redux:Clean files": false
+      "file-cleaner-redux:Clean files": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "bee23f9feea2f9c5",
+  "active": "beffc257a3367484",
   "lastOpenFiles": [
-    "99 - Template/0 - Definição de Templates.md",
-    "README.md",
-    "README.md.md",
-    "99 - Template/callouts.md",
-    "99 - Template/books.md",
-    "04 - Arquivos/0 - Definição de Arquivos.md",
-    "99 - Template/icons1.md",
-    "99 - Template/new.md",
-    "99 - Template/shell.md",
-    "99 - Template/sub-task.md",
-    "99 - Template/task.md",
-    "99 - Template/todo.md",
-    "00 - Inicio/2 - Notas.md",
-    "00 - Inicio/9 - Links.md",
     "00 - Inicio/1 - Fixados.md",
-    "01 - Projetos/0 - Definição de Projetos.md",
-    "03 - Recursos/0 - Definição de Recursos.md",
-    "02 - Áreas/0 - Definição de Áreas.md",
-    "02 - Áreas/bucket/pagamentos/nota-custos-fixos.md",
-    "00 - Inicio/0 - Fixados.md",
-    "03 - Recursos/bucket/artigos/ensaio-how-learn-anything.md",
-    "03 - Recursos/Estudos.md",
-    "01 - Projetos/bucket/pesquisa/relato-30-years-business-knowledge.md",
+    "98 - Bucket/anexos/ensaio-como-aprender-com-estrategias/AF9BCDB947B277250A2968CCF732F45D.png",
+    "98 - Bucket/anexos/ensaio-como-aprender-com-estrategias/B05A5A426E549772C99596F171D6E232.png",
+    "98 - Bucket/anexos/nota-kotlin-spring-desativar-autenticação/E28A1FA570422AAB0A09D1B7AF10EE0B.png",
+    "98 - Bucket/anexos/nota-tecninca-feynman/54305863BBBC7F39B0822033A714C2EE.jpg",
+    "98 - Bucket/anexos/nota-resolucao-de-problemas/339121C675D884DB876097FC7460F653.png",
+    "98 - Bucket/anexos/nota-melhores-queries/18CAC6358D86CE34F9841AA4602E1FD1.png",
+    "98 - Bucket/anexos/nota-melhores-queries/1A6BF551AF5D7D863737F41A4714037A.jpeg",
+    "98 - Bucket/anexos/nota-estruturas-verbais/5FC5A3B58202C9B3233505D33B77A9E3.jpg",
+    "98 - Bucket/anexos/manual-git-gitflow/115707B148336F77015ED90F95900187.png",
+    "98 - Bucket/anexos/Investimentos/D6A9BD536B58ECBCB5DA026C918A25FE-1.png",
+    "98 - Bucket/anexos/guia-avaliacao-desempenho-soft/8AB618DE8D7778CFC2D202B5C6BEBDD9.pdf",
+    "00 - Inicio/0 - Definição.md",
+    "98 - Bucket/03 - Recursos/artigos/ensaio-como-aprender-com-estrategias.md",
+    "03 - Recursos/Autores.md",
+    "03 - Recursos/Artigos.md",
+    "98 - Bucket/03 - Recursos/autores/autor-carl-gustav-jung.md",
+    "98 - Bucket/03 - Recursos/autores/autor-thomas-huxley.md",
+    "04 - Arquivos/Projetos.md",
+    "04 - Arquivos/Livros.md",
+    "04 - Arquivos/JavaScript.md",
     "04 - Arquivos/Geral.md",
-    "03 - Recursos/bucket/outros/prompt-removendo-mascaras.md",
-    "03 - Recursos/bucket/outros/prompt-for-everything.md",
-    "98 - Bucket/ensaio-como-ler-livros",
-    "98 - Bucket/ensaio-como-ler-livros/65B2BF615580A541AF7B69639260B6EE.png",
-    "98 - Bucket/nota-tecninca-feynman",
-    "98 - Bucket/nota-tecninca-feynman/54305863BBBC7F39B0822033A714C2EE.jpg",
-    "98 - Bucket/nota-estruturas-verbais",
-    "98 - Bucket/nota-estruturas-verbais/5FC5A3B58202C9B3233505D33B77A9E3.jpg",
-    "98 - Bucket/guia-com-resetar-voce-mesmo",
-    "98 - Bucket/guia-com-resetar-voce-mesmo/5FDBCF2E0CB6AC441CC20E3F250F769A.png",
-    "98 - Bucket/2 - Kick Notes",
-    "98 - Bucket/2 - Kick Notes/8679275FFA4D67F20A7D203FD1942CBB.png",
-    "04 - Arquivos/bucket/softfocus",
-    "01 - Projetos/bucket/transcricoes",
-    "00 - Inicio/bucket",
-    "02 - Áreas/bucket/estudos",
-    "02 - Áreas/bucket/pagamentos",
-    "98 - Bucket/00 - INICIO/2B61317216550CFB0A9F6E2B39B1FF5B.png",
-    "98 - Bucket/relato-youtube-30-Years-Business-knowledge/141526B392A312E05BBE4A8037C196BF.png",
-    "98 - Bucket/Configuração Linux PC/FAB21CC22AF4B479CC80A67202FB98E7.png",
-    "98 - Bucket/Configuração Linux PC/4A394F020449BA01DD8B0891CE7DC69C.png",
-    "98 - Bucket/ensaio-how-write-atomic-essay/0DB0F1B3D8D96C59AE7CDD5D71DFF46F.jpg",
+    "04 - Arquivos/Softfocus.md",
+    "03 - Recursos/Pesquisas.md",
+    "03 - Recursos/Outros.md",
+    "03 - Recursos/Linux.md",
+    "03 - Recursos/Estudos.md",
+    "98 - Bucket/02 - Areas/apresentacao-caputra-dividendos.md",
+    "98 - Bucket/apresentacao-ciencia-dados-big-data.md",
+    "98 - Bucket/03 - Recursos/windows/tutorial-ativar-win.md",
+    "98 - Bucket/02 - Areas/acoes/nota-tecninca-feynman.md",
+    "02 - Áreas/Investimentos.md",
+    "02 - Áreas/Pontos-de-ação.md",
+    "98 - Bucket/03 - Recursos/artigos/ensaio-como-ler-livros.md",
+    "98 - Bucket/03 - Recursos/artigos/apresentacao-ingles-links-conteudo.md",
+    "98 - Bucket/03 - Recursos/aprendizado/nota-funcionario-de-potencial.md",
+    "98 - Bucket/anexos/relato-tomcat-node-what-is-faster",
+    "98 - Bucket/anexos/projeto-java-springboot-microservices",
+    "98 - Bucket/anexos/projeto-java-padroes-projeto",
+    "98 - Bucket/anexos/projeto-django-advanced-rest-framework",
+    "98 - Bucket/anexos/projeto-bitcoin-area-bitcoin",
+    "98 - Bucket/anexos/nota-tipos-joins",
+    "98 - Bucket/anexos/nota-tecninca-feynman",
+    "98 - Bucket/anexos/nota-resolucao-de-problemas",
+    "98 - Bucket/anexos/nota-melhores-queries",
+    "98 - Bucket/02 - Areas/softfocus/diagramas/canvas-fluxos-credisol.canvas",
+    "98 - Bucket/02 - Areas/softfocus/canvas-fluxo-seguro-agri.canvas",
+    "98 - Bucket/01 - Projetos/canvas/Data Science do Zero/canvas-data-science-do-zero-0.canvas",
     "02 - Áreas/bucket/softfocus/diagramas/canvas-fluxos-credisol.canvas",
     "02 - Áreas/bucket/softfocus/canvas-fluxo-seguro-agri.canvas",
     "01 - Projetos/bucket/canvas/Data Science do Zero/Parte0.canvas",
